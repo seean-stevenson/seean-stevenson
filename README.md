@@ -67,7 +67,10 @@ I'm a **Senior Software Engineer** passionate about building scalable web platfo
 <p align="center">
   <img width="46.2%" src="https://nirzak-streak-stats.vercel.app/?user=seean-stevenson&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
   <img width="51.8%" src="https://github-readme-activity-graph.vercel.app/graph?username=seean-stevenson&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" />
-	<img src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=dracula&bg_color=0D111700&no-frame=true&column=6&row=1" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=dracula&bg_color=0D111700&no-frame=true&column=6&row=1" width="99%"/>
 </p>
 
 <p align="center">
