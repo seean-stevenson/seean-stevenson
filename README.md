@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%"/>
 
 <div align="center">
   
@@ -78,4 +78,4 @@ I'm a **Senior Software Engineer** passionate about building scalable web platfo
   <img width="50.2%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=seean-stevenson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
