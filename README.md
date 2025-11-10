@@ -65,17 +65,16 @@ I'm a **Senior Software Engineer** passionate about building scalable web platfo
 <hr/>
 
 <p align="center">
-  <img width="46.2%" src="https://nirzak-streak-stats.vercel.app/?user=seean-stevenson&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
-  <img width="51.8%" src="https://github-readme-activity-graph.vercel.app/graph?username=seean-stevenson&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" />
+  <img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=seean-stevenson&theme=dracula&hide_border=true" width="520px" alt="streak graph"  />
+  <img width="50%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=seean-stevenson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=dracula&bg_color=0D111700&no-frame=true&column=6&row=1" width="99%"/>
 </p>
 
 <p align="center">
-  <img width=47.8%" src="https://github-readme-stats-one-bice.vercel.app/api?username=seean-stevenson&show_icons=true&theme=dracula&hide_border=true&order=1%20commits=true&count_private=true&number_format=long&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="520px" alt="stats graph" />
-  <img width="50.2%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=seean-stevenson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
+  <img width="40.5%" src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=dracula&no-frame=true&column=4"/>
+  <img width="57.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=seean-stevenson&radius=16&theme=dracula&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
