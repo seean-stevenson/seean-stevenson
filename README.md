@@ -73,8 +73,7 @@ I'm a **Senior Software Engineer** passionate about building scalable web platfo
 </p>
 
 <p align="center">
-  <img width="40.5%" src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=tokyonight&no-frame=true&column=4"/>
-  <img width="57.5%" src="https://github-readme-activity-graph.vercel.app/graph?username=seean-stevenson&radius=16&theme=tokyonight&area=true&order=5&hide_border=true&bg_color=282A36" width="520px" alt="activity-graph graph" />
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=seean-stevenson&theme=tokyonight&no-frame=true&column=8"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
